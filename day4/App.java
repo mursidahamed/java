@@ -8,8 +8,7 @@ class App{
 
         Calculator obj2 = new Calculator();
         obj2.subnumbers(150,67);
-
-
+        obj2.mulnumbers(0);
     }
         
     
